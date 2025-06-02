@@ -1,5 +1,8 @@
-##  About Me:
-Hi, I'm Shreyaa! 👋<br><br>🎓 I'm a 19-year-old programmer<br/><br>💡 Passionate about tech, creativity, and building meaningful projects<br/><br>📊 Currently exploring data science, AI, and full-stack development<br/><br>🎨 I also enjoy graphic design<br/><br>
+### Hi, I'm Shreyaa! 👋  
+🎓 I'm a 19-year-old programmer  
+💡 Passionate about tech, creativity, and building meaningful projects  
+📊 Currently exploring data science, AI, and full-stack development  
+🎨 I also enjoy graphic design — [here’s my portfolio](https://drive.google.com/drive/folders/1JI8r-Tsief12Z7Cc9cLNcXz8JlP19lhu?usp=drive_link)
 
 
 ## 🌐 Socials:
