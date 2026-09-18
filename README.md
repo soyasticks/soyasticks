@@ -84,7 +84,11 @@
 
 <div align="center">
   <a href="https://github.com/freeCodeCamp/freeCodeCamp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&theme=midnight-purple&hide_border=true" />
+    <img src="https://img.shields.io/badge/freeCodeCamp-Curriculum_Contribution-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="https://github.com/freeCodeCamp/freeCodeCamp">
+    <img src="https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=for-the-badge&color=0A0A23&labelColor=0A0A23" />
   </a>
 </div>
 
