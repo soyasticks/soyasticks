@@ -1,24 +1,93 @@
-### Hi, I'm Shreyaa! 👋  
-🎓 19-year-old programmer  
-💡 Passionate about tech, creativity, and building meaningful projects  
-📊 Currently exploring data science, AI, and full-stack development  
-🎨 I also enjoy graphic design — [here’s my portfolio](https://drive.google.com/drive/folders/1JI8r-Tsief12Z7Cc9cLNcXz8JlP19lhu?usp=drive_link)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A246A,100:316AC5&height=180&section=header&text=Hi%20There,%20I'm%20Shreyaa&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20Engineer%20%7C%20Builder&descSize=16&descAlignY=58&descColor=ECE9D8" width="100%"/>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SHREYAA.GANESH48@nmims.in) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=316ACC&center=true&vCenter=true&width=600&lines=19-year-old+programmer;Building+production+software+at+scale;Exploring+AI%2FML%2C+Cybersecurity+%26+Full-Stack+Dev;Also+into+graphic+design" />
 
-# 💻 Tech Stack:
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soyasticks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=soyasticks&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soyasticks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soyasticks&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=soyasticks&icon=0&color=0)](https://visitcount.itsvg.in)
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Computer Engineering student at **SVKM's NMIMS MPSTME**, Mumbai
+- Passionate about tech, creativity, and building meaningful projects
+- Currently exploring data science, AI/ML, and full-stack development
+- I also enjoy graphic design — check out my [**portfolio**](https://xpsgportfolio.netlify.app/)
+- Head, R&D Department @ ACM Student Chapter, NMIMS
+- Reach me at **shreyaa.ganesh48@nmims.in**
+
+<br>
+
+## Connect With Me
+
+<div align="left">
+  <a href="mailto:shreyaa.ganesh48@nmims.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://xpsgportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A246A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+**Data & ML**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+
+**Databases**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+**Design & Tools**
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=soyasticks&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyasticks&layout=compact&theme=midnight-purple&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyasticks&theme=midnight-purple&hide_border=true" />
+</div>
+
+<br>
+
+## Top Contributed Repo
+
+<div align="center">
+  <a href="https://github.com/freeCodeCamp/freeCodeCamp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&theme=midnight-purple&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:316AC5,100:0A246A&height=100&section=footer" width="100%"/>
