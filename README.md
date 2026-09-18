@@ -75,7 +75,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyasticks&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyasticks&theme=radical&hide_border=true&fire=BB86FC&ring=BB86FC&currStreakLabel=BB86FC" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soyasticks&theme=react-dark&hide_border=true&bg_color=00000000&color=BB86FC&line=BB86FC&point=ffffff&area=true&area_color=BB86FC" width="100%" />
 </div>
 
 <br>
